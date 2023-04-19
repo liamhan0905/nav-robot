@@ -4,3 +4,6 @@
 [submodule "external/teleop_twist_keyboard"]
 	path = external/teleop_twist_keyboard
 	url = https://github.com/ros-teleop/teleop_twist_keyboard.git
+[submodule "external/pico-sdk"]
+	path = external/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
